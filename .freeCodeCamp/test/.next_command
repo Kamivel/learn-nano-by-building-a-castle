@@ -33,3 +33,4 @@ echo hello nano
 touch castle.sh
 ôs
 ls --color=auto
+nano castle.sh
